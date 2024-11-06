@@ -35,3 +35,6 @@ Contact Form: A contact form where users can enter their email address to receiv
 To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action.
 
 Watch the demo to see the project's features in real-time!
+
+![UdemigEducation-GoogleChrome2024-10-3114-39-26-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/37f282b2-963d-453e-a629-0bf0ff75b1ef)
+
