@@ -10,7 +10,7 @@ This project is a website designed for Udemig Education, a leading platform for 
 
 **Bootstrap:** A front-end framework used to create a responsive, mobile-first design and to speed up the development process.
 
-**Font Awesome & Bootstrap Icons:** Used for adding social media and navigation icons to the site.
+**Font Awesome & Bootstrap Icons:** Used for adding contact icons to the site.
 
 # Features
 
